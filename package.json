@@ -1,0 +1,23 @@
+{
+  "name": "es6-harmony",
+  "version": "1.0.0",
+  "description": "Project to understand the es6 features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reefath/es6.git"
+  },
+  "keywords": [
+    "es6",
+    "babel"
+  ],
+  "author": "rrajali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reefath/es6/issues"
+  },
+  "homepage": "https://github.com/reefath/es6"
+}
